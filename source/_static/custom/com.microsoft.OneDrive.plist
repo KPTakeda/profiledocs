@@ -1,6 +1,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
+		<key>PayloadContent</key>
+	<array>
+
 				<key>KFMOptInWithWizard</key>
 				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
 				<key>KFMSilentOptIn</key>
@@ -14,8 +17,7 @@
 				<key>DisableTutorial</key>
 				<true/>
 				<key>KFMBlockOptOut</key>
-				<true/>
-				KFMSilentOptInWithNotification</key>
+				<true/>KFMSilentOptInWithNotification</key>
 				<true/>
 				<key>KFMSilentOptInDesktop</key>
 				<true/>
