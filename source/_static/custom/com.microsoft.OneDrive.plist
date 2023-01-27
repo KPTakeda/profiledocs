@@ -3,7 +3,8 @@
 	<dict>
 		<key>PayloadContent</key>
 	<array>
-
+		
+		<dict>
 				<key>KFMOptInWithWizard</key>
 				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
 				<key>KFMSilentOptIn</key>
@@ -17,7 +18,8 @@
 				<key>DisableTutorial</key>
 				<true/>
 				<key>KFMBlockOptOut</key>
-				<true/>KFMSilentOptInWithNotification</key>
+				<true/>
+				<key>KFMSilentOptInWithNotification</key>
 				<true/>
 				<key>KFMSilentOptInDesktop</key>
 				<true/>
