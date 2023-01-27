@@ -5,8 +5,6 @@
 	<array>
 		
 		<dict>
-				<key>KFMOptInWithWizard</key>
-				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
 				<key>KFMSilentOptIn</key>
 				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
 				<key>DefaultFolderPath</key>
@@ -20,12 +18,6 @@
 				<key>KFMBlockOptOut</key>
 				<true/>
 				<key>KFMSilentOptInWithNotification</key>
-				<true/>
-				<key>KFMSilentOptInDesktop</key>
-				<true/>
-				<key>KFMSilentOptInDocuments</key>
-				<true/>
-				<key>KFMSilentOptInDownloads</key>
 				<true/>
 				<key>OpenAtLogin</key>
 				<true/>
