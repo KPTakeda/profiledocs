@@ -2,7 +2,7 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadContent</key>
-	<array>
+			<array>
 		
 		<dict>
 				<key>KFMSilentOptIn</key>
@@ -31,4 +31,5 @@
 				<string>OneDrive - Takeda</string>
 				<key>PayloadDisplayName</key>
 				<string>OneDrive - Takeda</string>
-	</dict>
+			</array>		
+		</dict>
