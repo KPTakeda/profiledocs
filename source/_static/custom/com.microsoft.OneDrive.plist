@@ -19,8 +19,6 @@
 				<true/>
 				<key>KFMSilentOptInWithNotification</key>
 				<true/>
-				<key>OpenAtLogin</key>
-				<true/>
 				<key>BlockExternalSync</key>
 				<true/>
 				<key>FilesOnDemandEnabled</key>
