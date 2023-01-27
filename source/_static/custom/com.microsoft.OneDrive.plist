@@ -1,10 +1,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
-		<key>PayloadContent</key>
-			<array>
-		
 		<dict>
+	
 				<key>KFMSilentOptIn</key>
 				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
 				<key>DefaultFolderPath</key>
@@ -30,6 +27,5 @@
 				<key>PayloadDescription</key>
 				<string>OneDrive - Takeda</string>
 				<key>PayloadDisplayName</key>
-				<string>OneDrive - Takeda</string>
-			</array>		
+				<string>OneDrive - Takeda</string>		
 		</dict>
