@@ -8,12 +8,13 @@
 				<key>PayloadDisplayName</key>
 				<string>OneDrive - Takeda</string>
 				<key>DefaultFolder</key>
-				<dict>
+		</dict>
+			<dict>
 				<key>Path</key>
 				<string>~/OneDrive - Takeda</string>
 				<key>TenantId</key>
 				<string>57fdf63b-7e22-45a3-83dc-d37003163aae</string>
-				</dict>
+			</dict>
 				<key>OpenAtLogin</key>
 				<true/>
 				<key>DisableTutorial</key>
@@ -30,5 +31,4 @@
 				<true/>
 				<key>EnableAllOcsiClients</key>
 				<true/>			
-		</dict>
 </plist>
